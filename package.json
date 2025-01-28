@@ -1,6 +1,6 @@
 {
   "name": "@cyberclarence/web-stream-tools",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Utility for WhatWG Streams",
   "type": "module",
   "publishConfig": {
